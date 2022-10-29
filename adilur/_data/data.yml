@@ -1,0 +1,116 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Md Sadman Sakib
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: sakib.csedu21@gmail.com
+    phone: +8801670924881
+    website: www.facebook.com/saadmaan.sakib #do not add http://
+    linkedin: sadman007
+    github: sadman007
+    
+    languages:
+      - idiom: Bangla
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Programming
+
+      - item: Travelling
+
+      - item: Photography
+
+career-profile:
+    title: Volunteering
+    summary: |
+          
+          - <b>Co-founder,Author & Editor</b> at [Shoshikkha](http://shoshikkha.com/)
+          - <b>Trainer</b> at [Junior Programming Workshop,CSEDU](https://www.facebook.com/Dept.CSE.DU/photos/a.146688232163212/707310139434349/?type=3&theater)    
+    
+
+education:
+    - degree: BSc in Computer Science & Engineering
+      university: University of Dhaka
+      time: 2015-2019
+     
+    - degree: Higher Secondary School Certificate
+      college: Notre Dame College
+      time: 2014
+      
+    - degree: Secondary School Certificate
+      school: Monipur High School & College
+      time: 2012
+
+
+projects:
+    title: Projects
+
+    assignments:
+      - title: Flappy Fisa
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Competitive Programming
+
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C++
+        level: 80%
+
+      - name: Java
+        level: 60%
+
+      - name: Python
+        level: 40%
+
+      - name: HTML5 & CSS
+        level: 45%
+        
+      - name: MS Office
+        level: 65%
+        
+      - name: Adobe Photoshop Lightroom
+        level: 50%
